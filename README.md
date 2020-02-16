@@ -1,6 +1,6 @@
 # devtub
 
-A new Flutter application.
+Aplicativo para consumir API do youtube, com BLOC
 
 ## Colocar a chave de sua API em utils/const.dart
 
