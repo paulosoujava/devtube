@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+## Colocar a chave de sua API em utils/const.dart
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
